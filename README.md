@@ -1,9 +1,6 @@
 # Linux-Troubleshooting
 As a summer project from geekhaven IIITA
 
-# CyberSecurity-IIITA
-A Repo to keep the CyberSecurity-IIITA projects 
-
 ## How to get started 
 
 Steps : 
